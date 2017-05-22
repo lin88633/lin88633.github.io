@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Jun&#39;s Blog</title>
+  <subtitle>E-mail:605641977@qq.com</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2017-05-22T09:00:40.331Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Jun LinW</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>JavaScript_tips</title>
+    <link href="http://yoursite.com/2017/05/22/JavaScript-tips/"/>
+    <id>http://yoursite.com/2017/05/22/JavaScript-tips/</id>
+    <published>2017-05-22T08:01:20.000Z</published>
+    <updated>2017-05-22T09:00:40.331Z</updated>
+    
+    <content type="html"><![CDATA[<p>onload 函数如果没有特定需求，可以直接定义初始函数：<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">window.onload = <span class="function"><span class="title">function</span></span>()&#123;...&#125; //表示读取页面时直接进行操作</div></pre></td></tr></table></figure></p>
+<p>常用事件：onsubmit/onload/onfocus/onblur/onclick</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;onload 函数如果没有特定需求，可以直接定义初始函数：&lt;br&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;t
+    
+    </summary>
+    
+      <category term="diary" scheme="http://yoursite.com/categories/diary/"/>
+    
+    
+      <category term="JavaScript" scheme="http://yoursite.com/tags/JavaScript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>The New Begin</title>
+    <link href="http://yoursite.com/2017/05/22/The-New-Begin/"/>
+    <id>http://yoursite.com/2017/05/22/The-New-Begin/</id>
+    <published>2017-05-22T03:00:37.000Z</published>
+    <updated>2017-05-22T07:21:50.660Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="This-is-the-first-time-for-me-using-Hexo-to-write-Technology-Blog"><a href="#This-is-the-first-time-for-me-using-Hexo-to-write-Technology-Blog" class="headerlink" title="This is the first time for me using Hexo to write Technology Blog."></a>This is the first time for me using Hexo to write Technology Blog.</h2><h3 id="In-the-document-which-U-want-to-creat-new-Blog-click-righten-mouse-button"><a href="#In-the-document-which-U-want-to-creat-new-Blog-click-righten-mouse-button" class="headerlink" title="In the document which U want to creat new Blog, click righten mouse button:"></a>In the document which U want to creat new Blog, click righten mouse button:</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line"></div><div class="line">Jun@Jun-PC MINGW64 /e/spyderCodes/MyB<span class="built_in">log</span>/hexo</div><div class="line">$ hexo new <span class="string">"The New Begin"</span></div><div class="line">INFO  Created: E:\spyderCodes\MyB<span class="built_in">log</span>\hexo\<span class="built_in">source</span>\_posts\The-New-Begin.md</div></pre></td></tr></table></figure>
+<h2 id="other-command-config"><a href="#other-command-config" class="headerlink" title="other command config"></a>other command config</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div></pre></td><td class="code"><pre><div class="line"></div><div class="line">hexo <span class="built_in">help</span> <span class="comment">#查看帮助</span></div><div class="line">hexo init <span class="comment">#初始化一个目录</span></div><div class="line">hexo new <span class="string">"postName"</span> <span class="comment">#新建文章</span></div><div class="line">hexo new page <span class="string">"pageName"</span> <span class="comment">#新建页面</span></div><div class="line">hexo generate <span class="comment">#生成网页，可以在 public 目录查看整个网站的文件</span></div><div class="line">hexo server <span class="comment">#本地预览，'Ctrl+C'关闭</span></div><div class="line">hexo deploy <span class="comment">#部署.deploy目录</span></div><div class="line">hexo clean <span class="comment">#清除缓存，**强烈建议每次执行命令前先清理缓存，每次部署前先删除 .deploy 文件夹**</span></div><div class="line"></div><div class="line">hexo n == hexo new</div><div class="line">hexo g == hexo generate</div><div class="line">hexo s == hexo server</div><div class="line">hexo d == hexo deploy</div></pre></td></tr></table></figure>
+<h2 id="Everything-right"><a href="#Everything-right" class="headerlink" title="Everything right!"></a>Everything right!</h2>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;This-is-the-first-time-for-me-using-Hexo-to-write-Technology-Blog&quot;&gt;&lt;a href=&quot;#This-is-the-first-time-for-me-using-Hexo-to-write-Techn
+    
+    </summary>
+    
+      <category term="diary" scheme="http://yoursite.com/categories/diary/"/>
+    
+    
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+      <category term="github" scheme="http://yoursite.com/tags/github/"/>
+    
+  </entry>
+  
+</feed>
